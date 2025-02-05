@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Senior CS Student | AI Enthusiast<br>Turning ideas into algorithms, one line of code at a time</p>
-<p align='left'>You can reach me at yazeedalhazmi7@gmail.com or [LinkedIn](https://www.linkedin.com/in/yalhazmi)</p>
+<p align='left'>You can reach me at yazeedalhazmi7@gmail.com or <a href="https://www.linkedin.com/in/yalhazmi">LinkedIn</a></p>
 
 ###
 
