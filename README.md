@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Learning AI & improving every day  <br>🎯 Goal: Build smart things<br>🎲 Fun fact: I love physics, maybe because debugging is just another way to test Newton’s Third Law 🤷🏻‍♂️</p>
+<p align="left">📚 Learning AI & improving every day  <br>🎯 Goal: Build smart things</p>
 
 ###
 
