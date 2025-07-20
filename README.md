@@ -2,10 +2,10 @@
 
 ###
 
-<p align="left">Senior CS Student | AI Enthusiast<br>Turning ideas into algorithms, one line of code at a time</p>
+<p align="left">Senior CS Student | AI Enthusiast<br>Turning ideas into algorithms, one line of code at a time</p>?
 
 ###
-
+<!---
 <h2 align="left">About me</h2>
 
 ###
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
+--->
 ###
 <p align='left'>You can reach me at yazeedalhazmi7@gmail.com or <a href="https://www.linkedin.com/in/yalhazmi">LinkedIn</a></p>
 <!---
